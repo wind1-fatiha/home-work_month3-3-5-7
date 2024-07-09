@@ -1,0 +1,3 @@
+//////////////// 5 /////////////////////
+const api='https://www.thecolorapi.com/id?hex=ffa'
+
